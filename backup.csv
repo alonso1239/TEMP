@@ -1,0 +1,90 @@
+1;2;1000000000;Tablas;t;t;1000000000;;;01;t;00001;\N;\N;\N
+1;2;1100000000;Configuración del Modulo;f;f;1000000000;;costos/tabla-locaciones;01;t;00001;\N;\N;\N
+1;2;1200000000;Cuentas Contables;f;f;1000000000;;costos/clasificacion-costos;01;t;00001;\N;\N;\N
+1;2;1300000000;Origen de Comprobantes;f;f;1000000000;;costos/grupo-costos;01;t;00001;\N;\N;\N
+1;2;1400000000;Tipos de Comprobantes;f;f;1000000000;;costos/subgrupo-costos;01;t;00001;\N;\N;\N
+1;2;1500000000;Tipos de Documentos;f;f;1000000000;;costos/inductores-costos;01;t;00001;\N;\N;\N
+1;2;1510000000;Numeración de Comprobantes;f;f;1000000000;;costos/distribucion-selectiva;01;t;00001;\N;\N;\N
+1;2;1700000000;Asientos Tipo;f;f;1000000000;;costos/elementos-costos;01;t;00001;\N;\N;\N
+1;2;1710000000;Entidades;f;f;1000000000;;costos/agrupadoras-gastos;01;t;00001;\N;\N;\N
+1;2;1720000000;Quiebre de Cuentas;f;f;1000000000;;costos/clasificadores-gasto;01;t;00001;\N;\N;\N
+1;2;1730000000;Parámetros Cierre de año;f;f;1000000000;;costos/registro-costos-ventas;01;t;00001;\N;\N;\N
+1;2;1740000000;Columnas de Impuestos;f;f;1000000000;;costos/registro-elementos-costos;01;t;00001;\N;\N;\N
+1;2;2000000000;Movimientos;t;t;2000000000;;;01;t;00001;\N;\N;\N
+1;2;2100000000;Comprobantes Contables;f;f;2000000000;;;01;t;00001;\N;\N;\N
+1;2;2200000000;Certificacion de Comprobantes;f;f;2000000000;;;01;t;00001;\N;\N;\N
+1;2;2300000000;Documentos Reg.Compras;f;f;2000000000;;;01;t;00001;\N;\N;\N
+1;2;2400000000;Documentos Reg.Ventas;f;f;2000000000;;;01;t;00001;\N;\N;\N
+1;2;3000000000;Procesos;t;t;3000000000;;;01;t;00001;\N;\N;\N
+1;2;3010000000;Cierre Mensual;f;f;3000000000;;;01;t;00001;\N;\N;\N
+1;2;3100000000;Genera Asientos (9-79);f;f;3000000000;;;01;t;00001;\N;\N;\N
+1;2;3200000000;Consolidar cuentas;f;f;3000000000;;;01;t;00001;\N;\N;\N
+1;2;3300000000;Consultar Saldos;f;f;3000000000;;;01;t;00001;\N;\N;\N
+1;2;3400000000;Apertura de mes;f;f;3000000000;;;01;t;00001;\N;\N;\N
+1;2;3500000000;Apertura Manual;f;f;3000000000;;;01;t;00001;\N;\N;\N
+1;2;3600000000;Apertura Mecanizada;f;f;3000000000;;;01;t;00001;\N;\N;\N
+1;2;3700000000;Apertura Analíticos;f;f;3000000000;;;01;t;00001;\N;\N;\N
+1;2;3800000000;Cierre Anual;f;f;3000000000;;;01;t;00001;\N;\N;\N
+1;2;4000000000;Consultas;t;t;6000000000;;;01;t;00001;\N;\N;\N
+1;2;4100000000;Saldos Netos Mensuales de Cuentas;f;f;6000000000;;costos/formato-10.1;01;t;00001;\N;\N;\N
+1;2;4200000000;Saldos Acumulados Mensuales de Cuentas;f;f;6000000000;;costos/formato-10.2;01;t;00001;\N;\N;\N
+1;2;4300000000;Variación de Saldos Mensuales de Cuentas;f;f;6000000000;;costos/formato-10.3;01;t;00001;\N;\N;\N
+1;2;4400000000;Mayor de Cuentas por Comprobante;f;f;6000000000;;costos/costos-y-gastos;01;t;00001;\N;\N;\N
+1;2;4500000000;Comprobantes;f;f;6000000000;;costos/registro-de-costos;01;t;00001;\N;\N;\N
+1;2;4510000000;Panel de Control;f;f;6000000000;;costos/costos-por-actividades;01;t;00001;\N;\N;\N
+1;2;5000000000;Reportes;t;t;5000000000;;;01;t;00001;\N;\N;\N
+1;2;5100000000;Formato de Comprobantes;f;f;5000000000;;;01;t;00001;\N;\N;\N
+1;2;5200000000;Análisis de cuentas;f;f;5000000000;;;01;t;00001;\N;\N;\N
+1;2;5300000000;Consistencia Mov. por Tipo de Ctas.;f;f;5000000000;;;01;t;00001;\N;\N;\N
+1;2;5400000000;Cuadro General de Cuentas;f;f;5000000000;;;01;t;00001;\N;\N;\N
+1;2;5500000000;Libro Diario General;f;f;5000000000;;;01;t;00001;\N;\N;\N
+1;2;5600000000;Libro Mayor General;f;f;5000000000;;;01;t;00001;\N;\N;\N
+1;2;5700000000;Libro de Inventarios y Balances;f;f;5000000000;;;01;t;00001;\N;\N;\N
+1;2;5800000000;Balance de Comprobacion;f;f;5000000000;;;01;t;00001;\N;\N;\N
+1;2;5810000000;Estado de Situación Financiera;f;t;5800000000;;;01;t;00001;\N;\N;\N
+1;2;5811000000;Plantilla;f;f;5810000000;;;01;t;00001;\N;\N;\N
+1;2;5812000000;Notas al Balance;f;f;5810000000;;;01;t;00001;\N;\N;\N
+1;2;5813000000;Balance General;f;f;5810000000;;;01;t;00001;\N;\N;\N
+1;2;5814000000;Balance Comparativo;f;f;5810000000;;;01;t;00001;\N;\N;\N
+1;2;5815000000;Anexos Balance General;f;f;5810000000;;;01;t;00001;\N;\N;\N
+1;2;5820000000;Estado de Ganancias y Pérdidas;f;t;5800000000;;;01;t;00001;\N;\N;\N
+1;2;5821000000;Plantilla por Función;f;f;5820000000;;;01;t;00001;\N;\N;\N
+1;2;5822000000;Plantilla por Naturaleza;f;f;5820000000;;;01;t;00001;\N;\N;\N
+1;2;5823000000;Est. Ganancias y Pérdidas;f;f;5820000000;;;01;t;00001;\N;\N;\N
+1;2;5824000000;Est. Comparativo;f;f;5820000000;;;01;t;00001;\N;\N;\N
+1;2;5830000000;Registro de compras y Ventas;f;t;5800000000;;;01;t;00001;\N;\N;\N
+1;2;5831000000;Formato 8.1 Registro de Compras General;f;f;5830000000;;;01;t;00001;\N;\N;\N
+1;2;5832000000;Registro por Tipo Documento;f;f;5830000000;;;01;t;00001;\N;\N;\N
+1;2;5833000000;Resumen de IGV Compras;f;f;5830000000;;;01;t;00001;\N;\N;\N
+1;2;5834000000;Formato 4.1 Libro de Retenciones;f;f;5830000000;;;01;t;00001;\N;\N;\N
+1;2;5835000000;Neto del IGV;f;f;5830000000;;;01;t;00001;\N;\N;\N
+1;2;5835000000;Formato 14.1 Registro de Ventas E Ingresos;f;f;5830000000;;;01;t;00001;\N;\N;\N
+1;2;5836000000;Saldos de Analíticos;f;f;5830000000;;;01;t;00001;\N;\N;\N
+1;2;5840000000;Flujo de Efectivo;f;t;5800000000;;;01;t;00001;\N;\N;\N
+1;2;5841000000;Plantilla;f;f;5840000000;;;01;t;00001;\N;\N;\N
+1;2;5842000000;Estado de Flujo de Efectivo;f;f;5840000000;;;01;t;00001;\N;\N;\N
+1;2;5850000000;Inventarios Estado de Cambios Patrimonio Neto;f;t;5800000000;;;01;t;00001;\N;\N;\N
+1;2;5851000000;Plantilla;f;f;5850000000;;;01;t;00001;\N;\N;\N
+1;2;5852000000;Cambio Patrimonial;f;f;5850000000;;;01;t;00001;\N;\N;\N
+1;2;7000000000;Anticipos y Viaticos;t;t;7000000000;;;01;t;00001;\N;\N;\N
+1;2;7100000000;Registro de Fondos;f;f;7000000000;;;01;t;00001;\N;\N;\N
+1;2;7200000000;Registro Auxiliar de Proveedores;f;f;7000000000;;;01;t;00001;\N;\N;\N
+1;2;7300000000;Registro Auxiliar de Documentos;f;f;7000000000;;;01;t;00001;\N;\N;\N
+1;2;7400000000;Registro de Rubros de Viaticos;f;f;7000000000;;;01;t;00001;\N;\N;\N
+1;2;7500000000;Registro de Solicitudes de Anticipos;f;f;7000000000;;;01;t;00001;\N;\N;\N
+1;2;7600000000;Registro de Solicitudes de Viaticos;f;f;7000000000;;;01;t;00001;\N;\N;\N
+1;2;7700000000;Registro Localidades de Viajes;f;f;7000000000;;;01;t;00001;\N;\N;\N
+1;2;8000000000;Indicadores de Gestión;t;t;8000000000;;;01;t;00001;\N;\N;\N
+1;2;8100000000;Agrupadoras de Variables;f;f;8000000000;;;01;t;00001;\N;\N;\N
+1;2;8200000000;Agrupadoras de Indicadores;f;f;8000000000;;;01;t;00001;\N;\N;\N
+1;2;8300000000;Definición de Variables;f;f;8000000000;;;01;t;00001;\N;\N;\N
+1;2;8400000000;Definición de Indicadores;f;f;8000000000;;;01;t;00001;\N;\N;\N
+1;2;8500000000;Calculo de Variables;f;f;8000000000;;;01;t;00001;\N;\N;\N
+1;2;8600000000;Calculo de Indicadores;f;f;8000000000;;;01;t;00001;\N;\N;\N
+1;2;8700000000;Gráficos de Variables;f;f;8000000000;;;01;t;00001;\N;\N;\N
+1;2;8800000000;Gráficos de Indicadores;f;f;8000000000;;;01;t;00001;\N;\N;\N
+1;2;8900000000;Gráficos de Costos;f;f;8000000000;;;01;t;00001;\N;\N;\N
+1;2;8910000000;Gráficos de Procesos;f;f;8000000000;;;01;t;00001;\N;\N;\N
+1;2;9000000000;Interfaces;t;t;9000000000;;;01;t;00001;\N;\N;\N
+1;2;9100000000;Libros Electronicos;f;f;9000000000;;;01;t;00001;\N;\N;\N
+1;2;9200000000;Interfaz a SUNASS;f;f;9000000000;;;01;t;00001;\N;\N;\N
