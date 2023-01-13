@@ -1,0 +1,61 @@
+1;2;1000000000;Parámetros;t;t;1000000000;;;01;t;00001;\N;\N;\N
+1;2;1100000000;Tabla de Locaciones;f;f;1000000000;;costos/tabla-locaciones;01;t;00001;\N;\N;\N
+1;2;1200000000;Tabla de Clasificación de Costos;f;f;1000000000;;costos/clasificacion-costos;01;t;00001;\N;\N;\N
+1;2;1300000000;Tabla de Grupos de Costos;f;f;1000000000;;costos/grupo-costos;01;t;00001;\N;\N;\N
+1;2;1400000000;Tabla de Subgrupos de Costos;f;f;1000000000;;costos/subgrupo-costos;01;t;00001;\N;\N;\N
+1;2;1500000000;Tabla de Inductores(costos);f;f;1000000000;;costos/inductores-costos;01;t;00001;\N;\N;\N
+1;2;1510000000;Tabla de Distribución Selectiva;f;f;1000000000;;costos/distribucion-selectiva;01;t;00001;\N;\N;\N
+1;2;1600000000;Parámetros de Costos por Actividades;f;t;1000000000;;;01;t;00001;\N;\N;\N
+1;2;1610000000;Proceso;f;f;1060000000;;costos/proceso;01;t;00001;\N;\N;\N
+1;2;1620000000;Macro Proceso;f;f;1060000000;;costos/macroproceso;01;t;00001;\N;\N;\N
+1;2;1630000000;Actividades;f;f;1060000000;;costos/actividades;01;t;00001;\N;\N;\N
+1;2;1640000000;Matriz de Costos x Actividades;f;f;1060000000;;costos/matriz-costo-actividades;01;t;00001;\N;\N;\N
+1;2;1650000000;Sub Procesos Empresarial;f;f;1060000000;;costos/subprocesos-empresarial;01;t;00001;\N;\N;\N
+1;2;1700000000;Tabla de Elementos de Costos;f;f;1000000000;;costos/elementos-costos;01;t;00001;\N;\N;\N
+1;2;1710000000;Tabla de Agrupadoras de Gastos;f;f;1000000000;;costos/agrupadoras-gastos;01;t;00001;\N;\N;\N
+1;2;1720000000;Tabla de Clasificadores de Gasto;f;f;1000000000;;costos/clasificadores-gasto;01;t;00001;\N;\N;\N
+1;2;1730000000;Plantilla de Registro Costos Ventas;f;f;1000000000;;costos/registro-costos-ventas;01;t;00001;\N;\N;\N
+1;2;1740000000;Plantilla de Registo de Elemen. Costos;f;f;1000000000;;costos/registro-elementos-costos;01;t;00001;\N;\N;\N
+1;2;2000000000;Procesos;t;t;2000000000;;;01;t;00001;\N;\N;\N
+1;2;2100000000;Registro de Volumenes de Produccion;f;f;2000000000;;;01;t;00001;\N;\N;\N
+1;2;2200000000;Registro de Facturacion por Locacion;f;f;2000000000;;;01;t;00001;\N;\N;\N
+1;2;2300000000;Costeo por KV - Actividades;f;f;2000000000;;;01;t;00001;\N;\N;\N
+1;2;2400000000;Cierre Mensual - Anual.;f;f;2000000000;;;01;t;00001;\N;\N;\N
+1;2;2500000000;Apertura Anual - Anual.;f;f;2000000000;;;01;t;00001;\N;\N;\N
+1;2;3000000000;Consultas;t;t;3000000000;;;01;t;00001;\N;\N;\N
+1;2;3010000000;Tablero de Control;f;f;3000000000;;;01;t;00001;\N;\N;\N
+1;2;3100000000;Grafico de Costos;f;f;3000000000;;;01;t;00001;\N;\N;\N
+1;2;3200000000;Grafico de Procesos;f;f;3000000000;;;01;t;00001;\N;\N;\N
+1;2;3300000000;Grafico de Costeo por Actividades;f;f;3000000000;;;01;t;00001;\N;\N;\N
+1;2;3400000000;Grafico de Costos de Producción;f;f;3000000000;;;01;t;00001;\N;\N;\N
+1;2;4000000000;Reportes;t;t;6000000000;;;01;t;00001;\N;\N;\N
+1;2;4100000000;Formato 10.1. Reg. Costos - Estado Costo de Ventas Mensual;f;f;6000000000;;costos/formato-10.1;01;t;00001;\N;\N;\N
+1;2;4200000000;Formato 10.2. Reg. Costos - Elementos de Costo Mensual;f;f;6000000000;;costos/formato-10.2;01;t;00001;\N;\N;\N
+1;2;4300000000;Formato 10.3. Reg. Costos - Estado de Costos de Producción;f;f;6000000000;;costos/formato-10.3;01;t;00001;\N;\N;\N
+1;2;4400000000;Costos y Gastos;f;f;6000000000;;costos/costos-y-gastos;01;t;00001;\N;\N;\N
+1;2;4500000000;Registro de Costos;f;f;6000000000;;costos/registro-de-costos;01;t;00001;\N;\N;\N
+1;2;4510000000;Costos Por Actividades;f;f;6000000000;;costos/costos-por-actividades;01;t;00001;\N;\N;\N
+1;2;4600000000;Costos por Distribuir;f;t;4000000000;;;01;t;00001;\N;\N;\N
+1;2;4610000000;Relacion de Documentos con Centros de Costo;f;f;4000000000;;costos/relacion-de-documentos;01;t;00001;\N;\N;\N
+1;2;4620000000;Analisis por Centro de Costo;f;f;4000000000;;costos/analisis-por-centro;01;t;00001;\N;\N;\N
+1;2;4630000000;Detallado por Cuentas Contables;f;f;4000000000;;costos/detallado-por-cuentas;01;t;00001;\N;\N;\N
+1;2;4640000000;Acumulado por Centro de Costos;f;f;4000000000;;costos/acumulado-por-centro;01;t;00001;\N;\N;\N
+1;2;4650000000;Acumulado por Rango de Periodos;f;f;4000000000;;costos/acumulado-por-rango;01;t;00001;\N;\N;\N
+1;2;4660000000;Detalle de Gastos Mensual;f;f;4000000000;;costos/detalle-de-gastos-mensual;01;t;00001;\N;\N;\N
+1;2;46700000  ;Gastos por Centro de Costos Mensual;f;f;4000000000;;costos/gastos-por-centro-de-costos;01;t;00001;\N;\N;\N
+1;2;46800000  ;Cuentas Contables y Centro de Costos  ;f;f;4000000000;;costos/cuentas-contables-y-centro-de-costos;01;t;00001;\N;\N;\N
+1;2;4700000000; Cadenas de Valor;f;t;4000000000;;;01;t;00001;\N;\N;\N
+1;2;4710000000;Resumen para Control;f;f;4000000000;;costos/resumen-para-control;01;t;00001;\N;\N;\N
+1;2;4720000000;Detallado por Centro de Costos;f;f;4000000000;;costos/detallado-por-centro-de-costos;01;t;00001;\N;\N;\N
+1;2;4730000000;Acumulado por Centro de Costos;f;f;4000000000;;costos/acumulado-por-centro-2;01;t;00001;\N;\N;\N
+1;2;4740000000;Acumulado por Cuentas Financieras;f;f;4000000000;;costos/acumulado-por-cuentas-financiera;01;t;00001;\N;\N;\N
+1;2;4750000000;Costo de Servicios Conexos;f;f;4000000000;;costos/costos-de-servicios-conexos;01;t;00001;\N;\N;\N
+1;2;4760000000;Analisis de Cuentas;f;f;4000000000;;costos/analisis-de-cuentas;01;t;00001;\N;\N;\N
+1;2;4800000000; Costos de Producción;f;t;4000000000;;;01;t;00001;\N;\N;\N
+1;2;4810000000;Costos de Produccion de Agua Potable;f;f;4000000000;;costos/c-de-produccion-de-agua-potable;01;t;00001;\N;\N;\N
+1;2;4820000000;Costos de Produccion de Alcantarillado;f;f;4000000000;;costos/c-de-produccion-de-alcantarillado;01;t;00001;\N;\N;\N
+1;2;4830000000;Costo Directo M3 Agua Potable y Alcantarillado;f;f;4000000000;;costos/c-directo-m3-aguapotable-y-alc;01;t;00001;\N;\N;\N
+1;2;4840000000;Costo Directo M3 Agua Potable y Alcantarillado a Costo Total;f;f;4000000000;;costos/c-directo-m3-aguapotable-y-alc-a-costo-total;01;t;00001;\N;\N;\N
+1;2;4850000000;Estado de Resultados por Locación;f;f;4000000000;;costos/estado-de-resultados-por-locacion;01;t;00001;\N;\N;\N
+1;2;4860000000;Indice de Autofinanciamiento por Locación;f;f;4000000000;;costos/indice-de-autofinanciamiento-por-locacion;01;t;00001;\N;\N;\N
+1;2;4870000000;Costo Economico por Locación;f;f;4000000000;;costos/costo-economico-por-locacion;01;t;00001;\N;\N;\N
